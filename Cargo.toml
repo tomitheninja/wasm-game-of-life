@@ -3,6 +3,9 @@ name = "wasm-game-of-life"
 version = "0.1.0"
 authors = ["Südi Tamás <suditomi@pm.me>"]
 edition = "2018"
+description = "Conway's game of life zero-player game implemented in rust"
+repository = "https://github.com/tomitheninja/wasm-game-of-life.git"
+license-file = "LICENSE"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
